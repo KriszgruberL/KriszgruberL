@@ -21,7 +21,6 @@
 <a href="https://www.leetcode.com/https://www.codewars.com/users/kriszgruberl" target="blank"><img align="center" src="cw.svg" alt="https://www.codewars.com/users/kriszgruberl" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
 <table>
