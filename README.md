@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Kriszgruber Laura</h1>
 <h3 align="center">A passionate backend developper learning Data engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kriszgruberl" alt="kriszgruberl" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kriszgruberl" alt="kriszgruberl" /></a> </p>
 
-- 🔭 I’m currently studiyng at [BeCode](https://becode.org/)
+-----------
 
-- 🌱 I’m currently learning **Data engineering @BeCode**
-
-- 💬 Ask me about **Python, Java**
-
-- 📫 How to reach me **l.kriszgruber@gmail.com**
-
-- ⚡ Fun fact **I like frogs**
+  - 🔭 I’m currently studiyng at [BeCode](https://becode.org/)
+  
+  - 🌱 I’m currently learning **Data engineering @BeCode**
+  
+  - 💬 Ask me about **Python, Java**
+  
+  - 📫 How to reach me **l.kriszgruber@gmail.com**
+  
+  - ⚡ Fun fact **I like frogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/laura-kriszgruber/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laura-kriszgruber/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.codewars.com/users/kriszgruberl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.codewars.com/users/kriszgruberl" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://www.codewars.com/users/kriszgruberl" target="blank"><img align="center" href="codewars(1).svg" alt="https://www.codewars.com/users/kriszgruberl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
