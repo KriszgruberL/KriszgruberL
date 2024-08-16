@@ -27,7 +27,11 @@
 
 ------
 <div align ="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kriszgruberl&show_icons=true&locale=en&layout=compact" alt="kriszgruberl" /></p>
+  <div display="inline">
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kriszgruberl&show_icons=true&locale=en&layout=compact" alt="kriszgruberl" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kriszgruberl&show_icons=true&locale=en" alt="kriszgruberl" /></p>
+  </div>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kriszgruberl&" alt="kriszgruberl" /></p>
 
